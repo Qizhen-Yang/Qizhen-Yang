@@ -1,10 +1,6 @@
-<div align="center">
-Hello! I'm Qizhen Yang, a student in China. 
-
-A pessimistic person is always tortured by emotions, only optimism can get me real joy.
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qizhen-Yang)
 
 # Contact Me
-- Email <alejandro_yang@yeah.net>
+- Email <i@qizhen-yang.cn>
 - GitHub [@Qizhen-Yang](https://github.com/Qizhen-Yang)
 - Twitter [@YangQizhen](https://twitter.com/YangQizhen)
